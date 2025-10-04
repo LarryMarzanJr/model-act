@@ -1,5 +1,5 @@
 
-vior Starter Pack
+Model Behavior Starter Pack
 
 A reusable library of prompt behaviors. Each role is written as a ready-to-use “hat” the model can wear depending on your needs.
 
@@ -127,6 +127,11 @@ Plant Doctor
 
 Seasonal Guide
 → “Act as a seasonal gardening guide. Tell me what to plant, harvest, or prepare during this season in [my region].”
+
+
+---
+
+🏥 Health & Nutrition
 
 
 Medical Explainer
