@@ -1,4 +1,3 @@
-
 # Model Behavior Starter Pack
 
 *A reusable library of prompt behaviors. Each role is written as a ready-to-use "hat" the model can wear depending on your needs.*
